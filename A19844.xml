@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A monumentall pyramide to all posterities erected to the euer-liuing memory, and perpetuall honour of the all-vertuous and euer-glorious prince, Lodovvick, late Duke of Richmond and Lenox ... Who departed this transitory life at his chamber in White-Hall, on Monday, being the sixteenth day of February, 1624, betwixt sixe and seauen of the clocke in the morning, to the great griefe of many thousand people of sundry nations.</title>
+            <author>Darcie, Abraham, fl. 1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19844</idno>
+            <idno type="STC">STC 6272</idno>
+            <idno type="STC">ESTC S109289</idno>
+            <idno type="EEBO-CITATION">99844939</idno>
+            <idno type="PROQUEST">99844939</idno>
+            <idno type="VID">9798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1134:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A monumentall pyramide to all posterities erected to the euer-liuing memory, and perpetuall honour of the all-vertuous and euer-glorious prince, Lodovvick, late Duke of Richmond and Lenox ... Who departed this transitory life at his chamber in White-Hall, on Monday, being the sixteenth day of February, 1624, betwixt sixe and seauen of the clocke in the morning, to the great griefe of many thousand people of sundry nations.</title>
+                  <author>Darcie, Abraham, fl. 1625.</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. All-de [and George Eld] for Nathaniel Butter,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: A. Darcie.</note>
+                  <note>In verse.</note>
+                  <note>"Eld pr[inted]. quire A; Allde app[arently]. the rest"--STC.</note>
+                  <note>Signatures: pi²  A-B⁴.</note>
+                  <note>The second leaf recto and verso are mourning pages.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Richmond, Ludovic Stuart, --  Duke of, 1574-1624 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9798:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:9798:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>A Monumentall PYRAMIDE TO ALL POSTERITIES: Erected to the euer-liuing memory, and perpetuall Honour of the All-vertuous and Euer-glorious Prince, LODOVVICK, late Duke of <hi>Richmond</hi> and <hi>Lenox:</hi> Earle of <hi>Newcastle,</hi> and <hi>Darnley,</hi> &amp;c. Lord of <hi>Torbolten and Methuen,</hi> Baron of <hi>Settrington,</hi> &amp;c. Knight of the Noble order of the Garter. Lord high Admirall and great Chamberlaine of <hi>Scotland:</hi> Lord high Stevvard to the Kings moſt excellent Maieſties moſt Honourable Houſhold: Gentle<g ref="char:EOLhyphen"/>man of his Bed-Chamber: and one of his Maieſties moſt Honourable Priuie Councell for England and Scotland, &amp;c.</p>
+            <p>Who departed this tranſitory life at his Cham<g ref="char:EOLhyphen"/>ber in <hi>White-Hall,</hi> on Monday, being the ſixteenth day of February, 1624. betvvixt ſixe and ſeauen of the clocke in the morning, to the great griefe of many thouſand people of ſundry Nations.</p>
+            <p>AT LONDON Printed by <hi>Edw. All<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de</hi> for <hi>Nathaniel Butter.</hi> 1624.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:9798:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:9798:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>TO THE JLLVSTRIOVS PRINCE <hi>ESME, Duke of</hi> Lenox &amp;c. <hi>Earle of MARCH</hi> and <hi>DARNLEY</hi> &amp;c. Lord of <hi>AVBIGNY,</hi> Terboten <hi>And</hi> Methuen, <hi>Baron</hi> of Settrington &amp;c. <hi>And to the learned Princeſſe KATHERINE his Gracious</hi> DVCHESSE</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ot to draw any more teares from your eyes doe J publiſh vnder your <hi>Graces Protections,</hi> this FVNERAL ELEGIE. J could not haue thought it worthy your view, but that it aymes at the conſer<g ref="char:EOLhyphen"/>uation of the glorious fame of that lamented Duke your noble Brother, which is to you moſt deare. J know none can ſet truly forth his diuine <g ref="char:V">Ʋ</g>ertues, for his praiſe is a high-going Sea, that wants both ſhore and bottome: J doe onely ſhew my dutie in my broken Engliſh, both to awaken and incourage Great Britaines Poets, who were ſtrucke into a Lethargy by this Princes ſudden aſcenſion to Heauen, to la<g ref="char:EOLhyphen"/>ment (in ſinging his due praiſe) their irreparable loſſe, vntill I can honor <hi>France</hi> (deſolate for his death) with the bright Patterne of his matchleſſe life, more fully in my natiue Language.</p>
+            <closer>
+               <signed>
+                  <hi>Your Graces deuoted,</hi> A. Darcie</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:9798:3"/>
+            <!-- PDF PAGE 9 -->
+            <head>TO THE NOBLE FRIENDS of that lamented Prince the deceaſed <hi>Duke of Richmond and Lenox.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>He friendlieſt office vſed to the dead,</l>
+               <l>Is their illuſtrious Vertues for to ſpread:</l>
+               <l>That though their MORTAL Parts interred lie</l>
+               <l>Their MEMORIES may laſt Eternally.</l>
+               <l>And to diſcharge my farr obliged Breſt</l>
+               <l>Theſe ſaddeſt FVNERALL LINES I haue addreſt</l>
+               <l>Which as I hope ſhall due Acceptance finde</l>
+               <l>With thoſe who keepe his VERTVES in their minde.</l>
+               <l>To ſhew my ſmall skill in Poetique vaine,</l>
+               <l>I haue not vndertooke this willing paine,</l>
+               <l>But to make knowne the gratitude I owe</l>
+               <l>For Courteſies which vndeſeru'd did flow</l>
+               <l>From his full-handed Bounty, vnto mee</l>
+               <l>WHO RAIS'D THIS COLVMNE TO HIS MEMORY.</l>
+               <l>And if (Great Lords) this Muſe may but obtaine,</l>
+               <l>Your gratious eye, my labor is not vaine.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:9798:3"/>
+            <!-- PDF PAGE 9 -->
+            <head>A Monumentall PYRAMIDE TO ALL POSTERITIES: Erected to the euer-liuing memory, and per<g ref="char:EOLhyphen"/>petuall Honor of the All-vertuous and Euer-glorious Prince, <hi>Lodowick,</hi> late Duke of Richmond and Lenox,</head>
+            <l>
+               <seg rend="decorInit">R</seg>ISE MOVRNEFVLL MVSE MELPOMENE, Relate</l>
+            <l>The wofull Story of a ſudden Fate,</l>
+            <l>
+               <hi>Which on a great and Noble DVKE befell;</hi>
+            </l>
+            <l>
+               <hi>No age can this Diſaſter parallel;</hi>
+            </l>
+            <l>Imperious Death his cruell arrow flings,</l>
+            <l>Into the palaces of mighty Kings,</l>
+            <l>
+               <hi>Transfixing ſometime with impartiall hand</hi>
+            </l>
+            <l>
+               <hi>The higheſt Nobles of a glorious Land.</hi>
+            </l>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:9798:4"/>
+            <!-- PDF PAGE 10 -->
+            <head>A Funerall Elegy.</head>
+            <lg>
+               <l>His corps return'd to earth from whence it came</l>
+               <l>But from his acts doth riſe his worthy fame.</l>
+               <l>
+                  <hi>Jmmortall Prince! whoſe name ſhall neuer dye;</hi>
+               </l>
+               <l>
+                  <hi>But ſhall ſuruiue to all eternitie:</hi>
+               </l>
+               <l>How can the memory of ſuch a ſpirit,</l>
+               <l>Whoſe deeds of very Enuy got his merit,</l>
+               <l>
+                  <hi>Euer forgotten be? whom to iuſt praiſe</hi>
+               </l>
+               <l>
+                  <hi>The worthy actions of his life did raiſe.</hi>
+               </l>
+               <l>All you the Worthies of our preſent dayes,</l>
+               <l>Whoſe iudgment &amp; experience knew his waies</l>
+               <l>
+                  <hi>Conuerſed with his actions and intents,</hi>
+               </l>
+               <l>
+                  <hi>Jn priuate and in publike managements.</hi>
+               </l>
+               <l>To your true vnderſtandings it is knowne,</l>
+               <l>That he might claime all honors for his owne.</l>
+               <pb facs="tcp:9798:4"/>
+               <!-- PDF PAGE 10 -->
+               <l>BVt you thrice noble Princeſſe, late the Wife</l>
+               <l>Of this braue <hi>Hero</hi> now depriu'd of life,</l>
+               <l>
+                  <hi>Who can preſcribe a bound vnto your moane,</hi>
+               </l>
+               <l>
+                  <hi>Now that your ſecond deareſt</hi> ſelfe <hi>is gone?</hi>
+               </l>
+               <l>
+                  <hi>Hee</hi> was the patterne of a perfect <hi>man,</hi>
+               </l>
+               <l>His ſingular <hi>endowments</hi> euer wan</l>
+               <l>
+                  <hi>A generall liking, and a full applauſe</hi>
+               </l>
+               <l>
+                  <hi>For his vpright ſincerenes in each cauſe:</hi>
+               </l>
+               <l>How quickly doe all earthly ioyes decay,</l>
+               <l>Forſaking their poſſeſſors; In a day,</l>
+               <l>An houre, a minute, <hi>hard misfortunes fall,</hi>
+               </l>
+               <l>
+                  <hi>Which from our mirth doe vnto mourning call!</hi>
+               </l>
+               <l>O let your briniſh teares without all end</l>
+               <l>From th'inexhauſted fountaines ſtil deſcend.</l>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb facs="tcp:9798:5"/>
+               <!-- PDF PAGE 11 -->
+               <l>England lament thy loſſe of ſuch a Peere,</l>
+               <l>And France, thy Ebon Robes of ſorrow weare:</l>
+               <l>
+                  <hi>But the praiſe-worthy actions he hath wrought,</hi>
+               </l>
+               <l>
+                  <hi>Till the worlds Fabrique be to</hi> Chaos <hi>brought,</hi>
+               </l>
+               <l>Shall liue perpetuall in each ages ſtory,</l>
+               <l>As the due Trophies of his matchleſſe glory!</l>
+               <l>
+                  <hi>O cruell Tyrant, how canſt thou repaire</hi>
+               </l>
+               <l>
+                  <hi>This ruine? though hereafter thou ſhouldſt ſpare</hi>
+               </l>
+               <l>All mankind, breake thy Dart and Ebon ſpade,</l>
+               <l>Thou canſt ont cure this wound w<hi rend="sup">ch</hi> thou haſt made;</l>
+               <l>Achilles <hi>falls, and</hi> Hector <hi>he is ſlaine,</hi>
+               </l>
+               <l>
+                  <hi>When as baſe Peaſants doe vntoucht remaine,</hi>
+               </l>
+               <l>Beams w<hi rend="sup">ch</hi> ſhal break forth fro<g ref="char:cmbAbbrStroke">̄</g> his hollow tombe</l>
+               <l>Shall ſtaine times paſt, &amp; light the time to come:</l>
+               <pb facs="tcp:9798:5"/>
+               <!-- PDF PAGE 11 -->
+               <l>There is no man, though he before were glad,</l>
+               <l>But when he thinks that we his <hi>Hero</hi> had,</l>
+               <l>
+                  <hi>And now haue loſt him, Though he be diuine</hi>
+               </l>
+               <l>
+                  <hi>Made by his death, yet will his eyes drop brine;</hi>
+               </l>
+               <l>All men are ſorry, all doe weepe their turne,</l>
+               <l>All in their hearts, though not in habits mourne,</l>
+               <l>
+                  <hi>The gener all land ore-whelm'd in ſorrow lies</hi>
+               </l>
+               <l>
+                  <hi>Exclayming on the</hi> cruell deſtinies,</l>
+               <l>VVhat accident falne in a 1000. yeares,</l>
+               <l>Hath fro<g ref="char:cmbAbbrStroke">̄</g> his friends drawne forth more ſtore of teares?</l>
+               <l>
+                  <hi>Since the firſt man that in the world was borne,</hi>
+               </l>
+               <l>
+                  <hi>A fuller number was not knowne to mourne:</hi>
+               </l>
+               <l>But for our ſelues, not him, let vs lament,</l>
+               <l>Whoſe happines is growne our puniſhment.</l>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb facs="tcp:9798:6"/>
+               <!-- PDF PAGE 12 -->
+               <l>And is the Patterne of true courteſie,</l>
+               <l>Both humble and repleat with maieſtie;</l>
+               <l>
+                  <hi>May his proceedings from aboue be bleſt</hi>
+               </l>
+               <l>
+                  <hi>With fortunate ſucceſſe and happy reſt.</hi>
+               </l>
+               <l>And may his Dutches with their Princely Line</l>
+               <l>All liue long, and in Sun-bright honour ſhine.</l>
+               <l>
+                  <hi>For theſe my worthleſſe lines, let it be ſaid,</hi>
+               </l>
+               <l>
+                  <hi>J haſted till I had this tribute paid</hi>
+               </l>
+               <l>Of my poore ſeruice; let the ſpeed excuſe</l>
+               <l>The zealous errour of my ſuddaine Muſe:</l>
+               <l>
+                  <hi>Yet though his praiſe here beare ſo ſhort a wing,</hi>
+               </l>
+               <l>England <hi>hath Poets that his praiſe will ſing</hi>
+               </l>
+               <l>In ſweeter tunes, and that will make his Hearſe</l>
+               <l>To be remembred, while men liue or verſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:9798:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+         </div>
+      </body>
+   </text>
+</TEI>
